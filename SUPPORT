@@ -1,0 +1,85 @@
+Task Manager for iOS — Support
+
+Welcome
+
+Thank you for using Task Manager for iOS, the most advanced system monitoring app for iPhone and iPad. This page provides support resources to help you get the most out of the app.
+
+
+
+
+Frequently Asked Questions
+
+What does this app do?
+
+Task Manager for iOS provides real-time monitoring of your device's performance, including CPU usage, memory (RAM), GPU utilization, disk storage, network activity, and battery health — all presented with a professional, animated interface.
+
+Is my data collected or shared?
+
+No. Task Manager for iOS operates entirely on your device. No personal data, system metrics, or usage information is collected, stored, or transmitted to any server. Your privacy is fully protected.
+
+Does this app drain my battery?
+
+The app is optimized for minimal battery impact. System metrics are collected at efficient intervals, and animations are GPU-accelerated to reduce power consumption.
+
+Why are some values estimated?
+
+Due to iOS sandboxing restrictions, certain system metrics (such as per-app CPU usage or exact GPU clock speeds) are estimated based on available system APIs. The app provides the most accurate data possible within Apple's guidelines.
+
+Does the app work on iPad?
+
+Yes. Task Manager for iOS is fully optimized for both iPhone and iPad, with adaptive layouts that take advantage of larger screens.
+
+Which iOS version is required?
+
+The app requires iOS 17.0 or later.
+
+
+
+
+Troubleshooting
+
+The app is not showing data
+
+Try closing and reopening the app. If the issue persists, restart your device and launch the app again.
+
+Charts are not updating
+
+Ensure the app is running in the foreground. iOS limits background activity for third-party apps, so real-time monitoring requires the app to be actively open.
+
+The app crashed
+
+Please update to the latest version from the App Store. If the issue continues, contact us with your device model and iOS version so we can investigate.
+
+
+
+
+Contact Us
+
+If you need further assistance, have feedback, or want to report a bug, please reach out:
+
+Email: nagarjunareddy2997@icloud.com
+
+We aim to respond within 48 hours.
+
+
+
+
+App Information
+
+•
+Developer: Nagarjuna Reddy
+
+•
+App Name: Task Manager for iOS
+
+•
+Category: Utilities
+
+•
+Compatibility: iOS 17.0+, iPhone, iPad
+
+
+
+
+Last updated: March 2026
+
